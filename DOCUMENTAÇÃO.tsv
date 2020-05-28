@@ -1,0 +1,82 @@
+Arquivo	Variável	Descrição
+DATASUS_SRAGs_CEP_18-05.shp	MUNICIPIO	Município do trecho
+DATASUS_SRAGs_CEP_18-05.shp	NOME_ACEN	Logradouro de referência (acentuado)
+DATASUS_SRAGs_CEP_18-05.shp	NOME_CAPS	Logradouro de referência (caixa alta)
+DATASUS_SRAGs_CEP_18-05.shp	CEP	Código de Endereçamento Postal do trecho
+DATASUS_SRAGs_CEP_18-05.shp	EXT_CEP	Comprimento estimado do CEP, em metros
+DATASUS_SRAGs_CEP_18-05.shp	HC_Q5	Hospitalizações por Covid-19 na quinzena 5 (23/02 a 07/03)
+DATASUS_SRAGs_CEP_18-05.shp	HS_Q5	Hospitalizações por SRAG (exclusive Covid-19) na quinzena 5 (23/02 a 07/03)
+DATASUS_SRAGs_CEP_18-05.shp	HT_Q5	Hospitalizações por SRAG (inclusive Covid-19) na quinzena 5 (23/02 a 07/03)
+DATASUS_SRAGs_CEP_18-05.shp	HC_Q6	Hospitalizações por Covid-19 na quinzena 6 (08/03 a 21/03)
+DATASUS_SRAGs_CEP_18-05.shp	HS_Q6	Hospitalizações por SRAG (exclusive Covid-19) na quinzena 6 (08/03 a 21/03)
+DATASUS_SRAGs_CEP_18-05.shp	HT_Q6	Hospitalizações por SRAG (inclusive Covid-19) na quinzena 6 (08/03 a 21/03)
+DATASUS_SRAGs_CEP_18-05.shp	HC_Q7	Hospitalizações por Covid-19 na quinzena 7 (22/03 a 04/04)
+DATASUS_SRAGs_CEP_18-05.shp	HS_Q7	Hospitalizações por SRAG (exclusive Covid-19) na quinzena 7 (22/03 a 04/04)
+DATASUS_SRAGs_CEP_18-05.shp	HT_Q7	Hospitalizações por SRAG (inclusive Covid-19) na quinzena 7 (22/03 a 04/04)
+DATASUS_SRAGs_CEP_18-05.shp	HC_Q8	Hospitalizações por Covid-19 na quinzena 8 (05/04 a 18/04)
+DATASUS_SRAGs_CEP_18-05.shp	HS_Q8	Hospitalizações por SRAG (exclusive Covid-19) na quinzena 8 (05/04 a 18/04)
+DATASUS_SRAGs_CEP_18-05.shp	HT_Q8	Hospitalizações por SRAG (inclusive Covid-19) na quinzena 8 (05/04 a 18/04)
+DATASUS_SRAGs_CEP_18-05.shp	HC_Q9	Hospitalizações por Covid-19 na quinzena 9 (19/04 a 02/05)
+DATASUS_SRAGs_CEP_18-05.shp	HS_Q9	Hospitalizações por SRAG (exclusive Covid-19) na quinzena 9 (19/04 a 02/05)
+DATASUS_SRAGs_CEP_18-05.shp	HT_Q9	Hospitalizações por SRAG (inclusive Covid-19) na quinzena 9 (19/04 a 02/05)
+DATASUS_SRAGs_CEP_18-05.shp	HC_Q10	Hospitalizações por Covid-19 na quinzena 10 (03/05 a 16/05) - DADOS INCOMPLETOS!
+DATASUS_SRAGs_CEP_18-05.shp	HS_Q10	Hospitalizações por SRAG (exclusive Covid-19) na quinzena 10 (03/05 a 16/05) - DADOS INCOMPLETOS!
+DATASUS_SRAGs_CEP_18-05.shp	HT_Q10	Hospitalizações por SRAG (inclusive Covid-19) na quinzena 10 (03/05 a 16/05) - DADOS INCOMPLETOS!
+DATASUS_SRAGs_CEP_18-05.shp	HC_Q11	Hospitalizações por Covid-19 na quinzena 11 (17/05 a 18/05) - DADOS INCOMPLETOS!
+DATASUS_SRAGs_CEP_18-05.shp	HS_Q11	Hospitalizações por SRAG (exclusive Covid-19) na quinzena 11 (17/05 a 18/05) - DADOS INCOMPLETOS!
+DATASUS_SRAGs_CEP_18-05.shp	HT_Q11	Hospitalizações por SRAG (inclusive Covid-19) na quinzena 11 (17/05 a 18/05) - DADOS INCOMPLETOS!
+DATASUS_SRAGs_CEP_18-05.shp	HC_TOT	Hospitalizações totais por Covid-19 no período de 23/02 a 18/05
+DATASUS_SRAGs_CEP_18-05.shp	HS_TOT	Hospitalizações totais por SRAG (exclusive Covid-19) no período de 23/02 a 18/05
+DATASUS_SRAGs_CEP_18-05.shp	HT_TOT	Hospitalizações totais por SRAG (inclusive Covid-19) no período de 23/02 a 18/05
+DATASUS_SRAGs_CEP_18-05.shp	OC_Q5	Óbitos pós-hospitalização por Covid-19 na quinzena 5 (23/02 a 07/03)
+DATASUS_SRAGs_CEP_18-05.shp	OS_Q5	Óbitos pós-hospitalização por SRAG (exclusive Covid-19) na quinzena 5 (23/02 a 07/03)
+DATASUS_SRAGs_CEP_18-05.shp	OT_Q5	Óbitos pós-hospitalização por SRAG (inclusive Covid-19) na quinzena 5 (23/02 a 07/03)
+DATASUS_SRAGs_CEP_18-05.shp	OC_Q6	Óbitos pós-hospitalização por Covid-19 na quinzena 6 (08/03 a 21/03)
+DATASUS_SRAGs_CEP_18-05.shp	OS_Q6	Óbitos pós-hospitalização por SRAG (exclusive Covid-19) na quinzena 6 (08/03 a 21/03)
+DATASUS_SRAGs_CEP_18-05.shp	OT_Q6	Óbitos pós-hospitalização por SRAG (inclusive Covid-19) na quinzena 6 (08/03 a 21/03)
+DATASUS_SRAGs_CEP_18-05.shp	OC_Q7	Óbitos pós-hospitalização por Covid-19 na quinzena 7 (22/03 a 04/04)
+DATASUS_SRAGs_CEP_18-05.shp	OS_Q7	Óbitos pós-hospitalização por SRAG (exclusive Covid-19) na quinzena 7 (22/03 a 04/04)
+DATASUS_SRAGs_CEP_18-05.shp	OT_Q7	Óbitos pós-hospitalização por SRAG (inclusive Covid-19) na quinzena 7 (22/03 a 04/04)
+DATASUS_SRAGs_CEP_18-05.shp	OC_Q8	Óbitos pós-hospitalização por Covid-19 na quinzena 8 (05/04 a 18/04)
+DATASUS_SRAGs_CEP_18-05.shp	OS_Q8	Óbitos pós-hospitalização por SRAG (exclusive Covid-19) na quinzena 8 (05/04 a 18/04)
+DATASUS_SRAGs_CEP_18-05.shp	OT_Q8	Óbitos pós-hospitalização por SRAG (inclusive Covid-19) na quinzena 8 (05/04 a 18/04)
+DATASUS_SRAGs_CEP_18-05.shp	OC_Q9	Óbitos pós-hospitalização por Covid-19 na quinzena 9 (19/04 a 02/05)
+DATASUS_SRAGs_CEP_18-05.shp	OS_Q9	Óbitos pós-hospitalização por SRAG (exclusive Covid-19) na quinzena 9 (19/04 a 02/05)
+DATASUS_SRAGs_CEP_18-05.shp	OT_Q9	Óbitos pós-hospitalização por SRAG (inclusive Covid-19) na quinzena 9 (19/04 a 02/05)
+DATASUS_SRAGs_CEP_18-05.shp	OC_Q10	Óbitos pós-hospitalização por Covid-19 na quinzena 10 (03/05 a 16/05) - DADOS INCOMPLETOS!
+DATASUS_SRAGs_CEP_18-05.shp	OS_Q10	Óbitos pós-hospitalização por SRAG (exclusive Covid-19) na quinzena 10 (03/05 a 16/05) - DADOS INCOMPLETOS!
+DATASUS_SRAGs_CEP_18-05.shp	OT_Q10	Óbitos pós-hospitalização por SRAG (inclusive Covid-19) na quinzena 10 (03/05 a 16/05) - DADOS INCOMPLETOS!
+DATASUS_SRAGs_CEP_18-05.shp	OC_Q11	Óbitos pós-hospitalização por Covid-19 na quinzena 11 (17/05 a 18/05) - DADOS INCOMPLETOS!
+DATASUS_SRAGs_CEP_18-05.shp	OS_Q11	Óbitos pós-hospitalização por SRAG (exclusive Covid-19) na quinzena 11 (17/05 a 18/05) - DADOS INCOMPLETOS!
+DATASUS_SRAGs_CEP_18-05.shp	OT_Q11	Óbitos pós-hospitalização por SRAG (inclusive Covid-19) na quinzena 11 (17/05 a 18/05) - DADOS INCOMPLETOS!
+DATASUS_SRAGs_CEP_18-05.shp	OC_TOT	Óbitos pós-hospitalização totais por Covid-19 no período de 23/02 a 18/05
+DATASUS_SRAGs_CEP_18-05.shp	OS_TOT	Óbitos pós-hospitalização totais por SRAG (exclusive Covid-19) no período de 23/02 a 18/05
+DATASUS_SRAGs_CEP_18-05.shp	OT_TOT	Óbitos pós-hospitalização totais por SRAG (inclusive Covid-19) no período de 23/02 a 18/05
+DATASUS_SRAGs_CEP_18-05.shp	HC_D1	Data da primeira hospitalização por Covid-19
+DATASUS_SRAGs_CEP_18-05.shp	OC_D1	Data do primeiro óbito pós-hospitalização por Covid-19
+DATASUS_SRAGs_CEP_18-05.shp	CEP_T	CEP formatado para texto
+DATASUS_SRAGs_CEP_18-05.shp	HC_KM	Hospitalizações por Covid-19 por quilômetro
+Q5.zip/Q5_HC.tif	Banda 1	Heatmap (kernel gaussiano r=1km, SIRGAS 2000/UTM 23S) de hospitalizações por Covid-19 na quinzena 5 (23/02 a 07/03)
+Q5.zip/Q5_HS.tif	Banda 1	Heatmap (kernel gaussiano r=1km, SIRGAS 2000/UTM 23S) de hospitalizações por SRAG (exclusive Covid-19) na quinzena 5 (23/02 a 07/03)
+Q5.zip/Q5_HT.tif	Banda 1	Heatmap (kernel gaussiano r=1km, SIRGAS 2000/UTM 23S) de hospitalizações por SRAG (inclusive Covid-19) na quinzena 5 (23/02 a 07/03)
+Q6.zip/Q6_HC.tif	Banda 1	Heatmap (kernel gaussiano r=1km, SIRGAS 2000/UTM 23S) de hospitalizações por Covid-19 na quinzena 6 (08/03 a 21/03)
+Q6.zip/Q6_HS.tif	Banda 1	Heatmap (kernel gaussiano r=1km, SIRGAS 2000/UTM 23S) de hospitalizações por SRAG (exclusive Covid-19) na quinzena 6 (08/03 a 21/03)
+Q6.zip/Q6_HT.tif	Banda 1	Heatmap (kernel gaussiano r=1km, SIRGAS 2000/UTM 23S) de hospitalizações por SRAG (inclusive Covid-19) na quinzena 6 (08/03 a 21/03)
+Q7.zip/Q7_HC.tif	Banda 1	Heatmap (kernel gaussiano r=1km, SIRGAS 2000/UTM 23S) de hospitalizações por Covid-19 na quinzena 7 (22/03 a 04/04)
+Q7.zip/Q7_HS.tif	Banda 1	Heatmap (kernel gaussiano r=1km, SIRGAS 2000/UTM 23S) de hospitalizações por SRAG (exclusive Covid-19) na quinzena 7 (22/03 a 04/04)
+Q7.zip/Q7_HT.tif	Banda 1	Heatmap (kernel gaussiano r=1km, SIRGAS 2000/UTM 23S) de hospitalizações por SRAG (inclusive Covid-19) na quinzena 7 (22/03 a 04/04)
+Q8.zip/Q8_HC.tif	Banda 1	Heatmap (kernel gaussiano r=1km, SIRGAS 2000/UTM 23S) de hospitalizações por Covid-19 na quinzena 8 (05/04 a 18/04)
+Q8.zip/Q8_HS.tif	Banda 1	Heatmap (kernel gaussiano r=1km, SIRGAS 2000/UTM 23S) de hospitalizações por SRAG (exclusive Covid-19) na quinzena 8 (05/04 a 18/04)
+Q8.zip/Q8_HT.tif	Banda 1	Heatmap (kernel gaussiano r=1km, SIRGAS 2000/UTM 23S) de hospitalizações por SRAG (inclusive Covid-19) na quinzena 8 (05/04 a 18/04)
+Q9.zip/Q9_HC.tif	Banda 1	Heatmap (kernel gaussiano r=1km, SIRGAS 2000/UTM 23S) de hospitalizações por Covid-19 na quinzena 9 (19/04 a 02/05)
+Q9.zip/Q9_HS.tif	Banda 1	Heatmap (kernel gaussiano r=1km, SIRGAS 2000/UTM 23S) de hospitalizações por SRAG (exclusive Covid-19) na quinzena 9 (19/04 a 02/05)
+Q9.zip/Q9_HT.tif	Banda 1	Heatmap (kernel gaussiano r=1km, SIRGAS 2000/UTM 23S) de hospitalizações por SRAG (inclusive Covid-19) na quinzena 9 (19/04 a 02/05)
+Q10.zip/Q10_HC.tif	Banda 1	Heatmap (kernel gaussiano r=1km, SIRGAS 2000/UTM 23S) de hospitalizações por Covid-19 na quinzena 10 (03/05 a 16/05) - DADOS INCOMPLETOS!	
+Q10.zip/Q10_HS.tif	Banda 1	Heatmap (kernel gaussiano r=1km, SIRGAS 2000/UTM 23S) de hospitalizações por SRAG (exclusive Covid-19) na quinzena 10 (03/05 a 16/05) - DADOS INCOMPLETOS!	
+Q10.zip/Q10_HT.tif	Banda 1	Heatmap (kernel gaussiano r=1km, SIRGAS 2000/UTM 23S) de hospitalizações por SRAG (inclusive Covid-19) na quinzena 10 (03/05 a 16/05) - DADOS INCOMPLETOS!	
+TOT_H.zip/TOT_HC.tif	Banda 1	Heatmap (kernel gaussiano r=1km, SIRGAS 2000/UTM 23S) de hospitalizações por Covid-19 no período de 23/02 a 18/05
+TOT_H.zip/TOT_HS.tif	Banda 1	Heatmap (kernel gaussiano r=1km, SIRGAS 2000/UTM 23S) de hospitalizações por SRAG (exclusive Covid-19) no período de 23/02 a 18/05
+TOT_H.zip/TOT_HT.tif	Banda 1	Heatmap (kernel gaussiano r=1km, SIRGAS 2000/UTM 23S) de hospitalizações por (inclusive Covid-19) no período de 23/02 a 18/05
+TOT_O.zip/TOT_OC.tif	Banda 1	Heatmap (kernel gaussiano r=1km, SIRGAS 2000/UTM 23S) de óbitos pós-hospitalização por Covid-19 no período de 23/02 a 18/05
+TOT_O.zip/TOT_OS.tif	Banda 1	Heatmap (kernel gaussiano r=1km, SIRGAS 2000/UTM 23S) de óbitos pós-hospitalização por SRAG (exclusive Covid-19) no período de 23/02 a 18/05
+TOT_O.zip/TOT_OT.tif	Banda 1	Heatmap (kernel gaussiano r=1km, SIRGAS 2000/UTM 23S) de óbitos pós-hospitalização por (inclusive Covid-19) no período de 23/02 a 18/05
