@@ -20,21 +20,27 @@ São parte deste conjunto de dados:
     Q5_HC.tif
     Q5_HS.tif
     Q5_HT.tif
+    CUM_HC_Q5.tif
     Q6_HC.tif
     Q6_HS.tif
     Q6_HT.tif
+    CUM_HC_Q6.tif
     Q7_HC.tif
     Q7_HS.tif
     Q7_HT.tif
+    CUM_HC_Q7.tif
     Q8_HC.tif
     Q8_HS.tif
     Q8_HT.tif
+    CUM_HC_Q8.tif
     Q9_HC.tif
     Q9_HS.tif
     Q9_HT.tif
+    CUM_HC_Q9.tif
     Q10_HC.tif
     Q10_HS.tif
     Q10_HT.tif
+    CUM_HC_Q10.tif
     TOT_HC.tif
     TOT_HS.tif
     TOT_HT.tif
